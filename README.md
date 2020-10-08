@@ -36,13 +36,13 @@ La confidentialité : les données des utilisateurs doivent être en toute sécu
 L’évolution : la possibilité de supprimer ou rajouter des utilisateurs sans modification majeure sur
 l’application
 ### La conception:
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Capture.png)
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/DagrameSeq.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Capture.PNG)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/DagrameSeq.png)
 ![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Activity.PNG)
 
 ### les screenShoot de l'application:
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Inscription.png?raw=true "Use Case")
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/MainPage.png?raw=true "Use Case")
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Inscription.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/MainPage.png)
 
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Appa.png?Graw=true "Use Case")
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/App2.png?raw=true "Use Case")
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Appa.png )
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/App2.png )

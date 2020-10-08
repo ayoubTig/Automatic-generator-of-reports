@@ -37,12 +37,12 @@ L’évolution : la possibilité de supprimer ou rajouter des utilisateurs sans 
 l’application
 ### La conception:
 ![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Capture.PNG)
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/DagrameSeq.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/DagrameSeq.PNG)
 ![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Activity.PNG)
 
 ### les screenShoot de l'application:
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Inscription.png)
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/MainPage.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Inscription.PNG)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/MainPage.PNG)
 
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Appa.png)
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/App2.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Appa.PNG)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/App2.PNG)

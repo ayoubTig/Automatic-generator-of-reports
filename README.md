@@ -44,5 +44,5 @@ l’application
 ![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Inscription.png)
 ![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/MainPage.png)
 
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Appa.png )
-![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/App2.png )
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/Appa.png)
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/blob/master/ImagesOfReadme/App2.png)

@@ -35,5 +35,12 @@ accessibles à tout le monde.
 La confidentialité : les données des utilisateurs doivent être en toute sécurité.
 L’évolution : la possibilité de supprimer ou rajouter des utilisateurs sans modification majeure sur
 l’application
+### La conception:
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Capture.PNG?raw=true "Use Case")
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/DagrameSeq.PNG?raw=true "Dia")
+### les screenShoot de l'application:
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Inscription.PNG?raw=true "Use Case")
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/MainPage.PNG?raw=true "Use Case")
 
-
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/Appa.PNG?Graw=true "Use Case")
+![Alt text](https://github.com/ayoubTig/Automatic-generator-of-reports/tree/master/ImagesOfReadme/App2.PNG?raw=true "Use Case")

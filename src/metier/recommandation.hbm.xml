@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/HibernateMappingDTD3.0//EN" 
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="metier.recommandation" table="recommandation">
+<id name="id" type="int" column="id_rec" >
+    <generator class="increment"/> 
+</id>
+<property name="reference_rec"  type="string" not-null="true"/>
+<property name="rec"  type="string" not-null="true"/>
+<property name="localisation"  type="string" not-null="true"/>
+<property name="risque"  type="string" not-null="true"/>
+<property name="type"  type="string" not-null="true"/>
+
+
+</class>
+</hibernate-mapping>

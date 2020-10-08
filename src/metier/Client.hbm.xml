@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/HibernateMappingDTD3.0//EN" 
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="metier.Client" table="infos_client">
+<id name="id" type="int" column="id" >
+    <generator class="increment"/> 
+</id>
+<property name="nom_entreprise"  type="string" not-null="true"/>
+<property name="date_visite"  type="string" not-null="true"/>
+<property name="Niveau_de_Risque"  type="string" not-null="true"/>
+<property name="Niveau_de_protection"  type="string" not-null="true"/>
+<property name="url"  type="string" not-null="true"/>
+<property name="geo"  type="string" not-null="true"/>
+<property name="n_police"  type="string" not-null="true"/>
+</class>
+</hibernate-mapping>

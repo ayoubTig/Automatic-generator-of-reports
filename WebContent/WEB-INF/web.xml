@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+	id="WebApp_ID" version="4.0">
+<!-- 	<request-character-encoding>UTF-8</request-character-encoding> -->
+
+<filter>
+  <filter-name>setCharacterEncodingFilter</filter-name>
+  <filter-class>org.apache.catalina.filters.SetCharacterEncodingFilter</filter-class>
+  <init-param>
+    <param-name>encoding</param-name>
+    <param-value>UTF-8</param-value>
+  </init-param>
+</filter>
+
+<filter-mapping>
+  <filter-name>setCharacterEncodingFilter</filter-name>
+  <url-pattern>/*</url-pattern>
+</filter-mapping>
+
+	<display-name>RMAE</display-name>
+	<welcome-file-list>
+		<welcome-file>login.jsp</welcome-file>
+ 
+	</welcome-file-list>
+
+<servlet>
+        <servlet-name>SeviceServlet</servlet-name>
+        <servlet-class>Contrôleur.SeviceServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SeviceServlet</servlet-name>
+        <url-pattern>/SeviceServlet</url-pattern>
+    </servlet-mapping>
+ 
+    <jsp-config>
+    <jsp-property-group>
+        <url-pattern>*.jsp</url-pattern>
+        <page-encoding>UTF-8</page-encoding>
+    </jsp-property-group>
+</jsp-config>
+<error-page>
+		<exception-type>java.lang.Throwable</exception-type>
+		<location>/Error.jsp</location>
+	</error-page>
+
+
+</web-app>
+
+ 
+
+
+

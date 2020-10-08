@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/HibernateMappingDTD3.0//EN" 
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+<class name="metier.Referentiel" table="refrentiel">
+<id name="id" type="int" column="id_ref" >
+    <generator class="increment"/> 
+</id>
+<property name="ref_titre"  type="string" not-null="true" unique="true"/>
+<property name="ref_dec"  type="string" not-null="true"/>
+
+</class>
+</hibernate-mapping>

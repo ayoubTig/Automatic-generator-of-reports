@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+	"-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+	<class name="metier.Document" table="Document">
+		<id name="idDoc" column="idDoc"  type="int">
+		 <generator class="increment"/>
+			<!-- <generator class="foreign"> <param name="property">user</param> </generator> -->
+		<!-- 	<generator  class="identity" /> -->
+		</id>
+		<property name="numPolice" column="numPolice"/>
+		<property name="Nom_entreprise" column="Nom_entreprise"/>
+
+		<property name="nbrRe" column="nbrRe"/>
+		<property name="URL_dossierImage" column="URL_dossierImage"/>
+		<property name="Url_Doc" column="Url_Doc"/>
+		<property name="Date_Viste" column="Date_Viste"/>
+     	 <property name="Capitale" column="Capitale"/>
+		<property name="activite" column="activite"/>
+ 
+	 
+		<property name="Adresse" column="Adresse"/>
+
+ 
+		<!-- <many-to-one name="auth" column="id" class="metier.User"  cascade="save-update" fetch="select" /> -->
+
+	</class>
+</hibernate-mapping>
